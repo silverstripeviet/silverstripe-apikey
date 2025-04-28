@@ -1,11 +1,10 @@
 {
-    "name": "sminnee/silverstripe-apikey",
+    "name": "silverstripedev/silverstripe-apikey",
     "description": "API Key management for Silverstripe CMS",
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "Sam Minnee",
-            "email": "sam@silverstripe.com"
+            "name": "Silverstripe dev",
         }
     ],
     "type": "silverstripe-vendormodule",
